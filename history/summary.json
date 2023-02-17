@@ -4,37 +4,39 @@
     "url": "https://plausible.gbaranski.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.gbaranski.com.ico",
     "slug": "plausible",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 805,
-    "timeWeek": 805,
-    "timeMonth": 805,
-    "timeYear": 805,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1933,
+    "timeDay": 1933,
+    "timeWeek": 1933,
+    "timeMonth": 1933,
+    "timeYear": 1933,
+    "dailyMinutesDown": {
+      "2023-02-17": 1
+    }
   },
   {
     "name": "Where To Park - Database",
     "url": "https://database.wheretopark.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/database.wheretopark.app.ico",
     "slug": "where-to-park-database",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 780,
-    "timeDay": 780,
-    "timeWeek": 780,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
+    "time": 3186,
+    "timeDay": 3186,
+    "timeWeek": 3186,
+    "timeMonth": 3186,
+    "timeYear": 3186,
     "dailyMinutesDown": {
-      "2023-02-17": 0
+      "2023-02-17": 9
     }
   },
   {
@@ -43,18 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.wheretopark.app.ico",
     "slug": "where-to-park-web-app",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3479,
     "timeDay": 3479,
     "timeWeek": 3479,
     "timeMonth": 3479,
     "timeYear": 3479,
-    "dailyMinutesDown": {
-      "2023-02-17": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
