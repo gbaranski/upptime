@@ -4,19 +4,19 @@
     "url": "https://plausible.gbaranski.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.gbaranski.com.ico",
     "slug": "plausible",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1933,
-    "timeDay": 1933,
-    "timeWeek": 1933,
-    "timeMonth": 1933,
-    "timeYear": 1933,
+    "status": "up",
+    "uptime": "95.34%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "95.34%",
+    "uptimeYear": "95.34%",
+    "time": 1502,
+    "timeDay": 1502,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
     "dailyMinutesDown": {
-      "2023-02-17": 1
+      "2023-02-17": 21
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/database.wheretopark.app.ico",
     "slug": "where-to-park-database",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3186,
     "timeDay": 3186,
     "timeWeek": 3186,
     "timeMonth": 3186,
     "timeYear": 3186,
-    "dailyMinutesDown": {
-      "2023-02-17": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Where To Park - Web App",
